@@ -6,9 +6,13 @@ The project focuses on a smooth UI/UX, fully responsive design (desktop, tablet,
 🔗 Live Demo: https://neo-mart-e-com.vercel.app/
 
 🔑 Features
+
 📦 Product data fetched dynamically from an API
+
 📂 Category-based product filtering
+
 📱 Fully responsive design with modern UI
+
 ⚡ Powered by React + Vite + Tailwind CSS
 
 ⚠️ Note
