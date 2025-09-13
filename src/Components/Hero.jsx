@@ -6,19 +6,19 @@ const slides = [
         id: 1,
         title: "Elegant Jewelry Collection",
         subtitle: "Timeless designs crafted for every special moment.",
-        img: "/assets/Images/Hero-01.avif",
+        img: "/Images/Hero-01.avif",
     },
     {
         id: 2,
         title: "Exclusive Gaming Gear",
         subtitle: "Level up your play with premium consoles & accessories.",
-        img: "/assets/Images/Hero-02.jpg",
+        img: "/Images/Hero-02.jpg",
     },
     {
         id: 3,
         title: "Trendy Men’s & Women’s Clothing",
         subtitle: "Fashion that defines your style, for every occasion.",
-        img: "/assets/Images/Herp-03.avif",
+        img: "/Images/Herp-03.avif",
     },
 ];
 
