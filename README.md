@@ -1,12 +1,15 @@
-# React + Vite
+🛒 Neo Mart – Frontend E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Neo Mart is a frontend-based e-commerce website built with React, Vite, and Tailwind CSS.
+The project focuses on a smooth UI/UX, fully responsive design (desktop, tablet, and mobile), and a clean layout for showcasing products.
 
-Currently, two official plugins are available:
+🔗 Live Demo: https://neo-mart-e-com.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔑 Features
+📦 Product data fetched dynamically from an API
+📂 Category-based product filtering
+📱 Fully responsive design with modern UI
+⚡ Powered by React + Vite + Tailwind CSS
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚠️ Note
+This project is frontend-only. Functionality like adding, removing, or editing items (admin panel) is not included, as the focus is on frontend development.
