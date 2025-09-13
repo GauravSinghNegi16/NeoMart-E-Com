@@ -36,7 +36,7 @@ function CardDetail() {
       <div className="w-full lg:w-1/2 flex items-center justify-center">
         <div className="w-full max-w-md lg:max-w-lg aspect-square flex items-center justify-center bg-zinc-100 overflow-hidden rounded-xl">
           <img
-            className="w-3/4 lg:w-[50%] object-contain"
+            className="w-[60%] md:-[60%] lg:w-[50%] object-contain"
             src={product.image}
             alt={product.title}
           />
